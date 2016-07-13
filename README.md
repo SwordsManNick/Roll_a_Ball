@@ -1,4 +1,3 @@
-https://swordsmannick.github.io/Roll_a_Ball/
 #Roll a Ball Tutorial
 
 [Web Build](https://swordsmannick.github.io/Roll_a_Ball/)
